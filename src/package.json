@@ -1,0 +1,6 @@
+{
+    "type": "module",
+    "name": "mycastle-js",
+    "version": "1.0.0",
+    "exports": "./src/app.js"
+}
